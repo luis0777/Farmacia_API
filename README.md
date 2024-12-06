@@ -49,3 +49,11 @@ O projeto segue a arquitetura **MVC (Model-View-Controller)**, organizada da seg
 - Arquivo: `Item.java`
 
 ---
+
+## 🛡️ Tecnologias Utilizadas
+
+- **Spring Boot:** Framework principal para criação da API.
+- **Maven:** Gerenciador de dependências.
+- **Java:** Linguagem de programação.
+- **SQL Server:** Banco de dados utilizado.
+- **Docker:** Para gerenciar e executar o banco de dados SQL Server.
